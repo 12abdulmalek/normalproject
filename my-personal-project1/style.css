@@ -23,6 +23,7 @@ main{
  menu bar start navbar start 
  ------------------ */
  header{
+     color: red;
     display: flex;
     align-items: center;
     flex-direction: column;
