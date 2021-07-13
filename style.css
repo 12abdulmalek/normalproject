@@ -238,3 +238,19 @@ top blogs  style
         top: 52px;
         }
     }
+
+    @media (max-width:440px) {
+
+         .menu-item{
+            margin-left: 30%;
+               }
+    }
+    @media (max-width:240px) {
+
+        .menu-item{
+           margin-left: 40%;
+         
+        }
+       
+   }
+   
