@@ -1,0 +1,44 @@
+/* ----------------- 
+comont start utilizes  
+--------------- */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F3F1FF;
+}
+ 
+a{
+    text-decoration: none;
+    margin-left: 8px;
+    text-transform:uppercase;
+}
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+ /* ------------------
+ menu bar start navbar start 
+ ------------------ */
+ header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   background-color: rgba(196, 205, 255, 0.4);
+ }
+.menu-bar,.container{
+    width: 800px;
+}
+ .menu-item{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+ }
+
+ /*-----------
+  main area start 
+ -------------- */
+
+ 
